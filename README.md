@@ -5,11 +5,11 @@
 Campo	Detalle
 Nombre de la app	Mindscape
 Subtítulo	Laboratorio Digital de Aprendizaje
-Autor	Santiago Miranda
-Programa Académico	Licenciatura en Tecnología
-Asignatura	Hardware y Redes
-Institución	Universidad del Magdalena
-Año	2026
+Autor:	Santiago Miranda
+Programa Académico:	Licenciatura en Tecnología
+Asignatura:	Hardware y Redes
+Universidad del Magdalena
+2026
 Archivo principal	`Mindscape\_v2.html`
 Tecnología	HTML5 · CSS3 · JavaScript Vanilla (sin dependencias externas)
 ---
